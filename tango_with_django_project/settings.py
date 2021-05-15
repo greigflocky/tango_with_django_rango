@@ -30,7 +30,7 @@ SECRET_KEY = '3g#7elzmwzpxm*54mtx5%s4i!tq#vcb+@=$7x610x5*ms+ec-6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['rangodemo2020.pythonanywhere.com']
 
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
